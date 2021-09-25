@@ -1,0 +1,17 @@
+/node_modules/
+
+# Transpiled code
+build
+dist
+
+# Environment variables
+.env
+.env.test
+.ent.develpment
+
+uploads/*
+!uploads/*gitkeep
+
+#
+yarn.lock
+yarn-error.log
